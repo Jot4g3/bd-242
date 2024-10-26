@@ -1,3 +1,2 @@
 # bd-242
-# Disciplina de Banco de Dados 2024.2.
-## Contém exercícios e atividades referentes ao assunto.
+## Contém exercícios e atividades referentes à disciplina de Banco de Dados 2024.2.
