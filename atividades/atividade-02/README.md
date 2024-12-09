@@ -1,4 +1,4 @@
-# Atividade 02 - Enunciado
+# Atividade 02 
 ## Usar o diagrama do banco de dados modelo do Tutorial de <em>SQLite</em> localizado em https://www.sqlitetutorial.net/sqlite-sample-database/ e refazê-lo usando o <em>PlantUML</em>. 
 ### Seguir os seguintes padrões:
 #### 1) Nome de Tabela: Usar o prefixo TB_. Exemplo: Tabela de Alunos -> TB_ALUNOS;
