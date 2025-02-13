@@ -7,4 +7,5 @@
 ## Executar o código Python gerado pelo Prompt.
 
 [Acesse esse Prompt posto em uma ferramenta de I.A. - BlackBoxAI](https://www.blackbox.ai/share/ddca0ca5-b428-4251-9b52-0ba37fe5e238)
+
 [Acesse um tutorial dessa atividade](https://docs.google.com/document/d/1-fIW0sUbIYQoNwz-yyi8_EPgagMBz3hWqjRVC-zTAf0/edit?tab=t.0)
